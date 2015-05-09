@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60B42D8F-4425-4ABE-82BE-26373D1A206E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6203A1D654A9A000E98F5434748649359888779E</key>
+		<string>https://github.com/BeeMaya/homework17.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6203A1D654A9A000E98F5434748649359888779E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BeeMaya/homework17.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6203A1D654A9A000E98F5434748649359888779E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6203A1D654A9A000E98F5434748649359888779E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableView-new</string>
+		</dict>
+	</array>
+</dict>
+</plist>

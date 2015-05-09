@@ -25,7 +25,7 @@
    self.titleLabel.text = flower.name;
    self.descriptionLabel.text = flower.details;
    self.flowerImageView.image = [UIImage imageNamed:flower.imageName];
-   self.descriptionLabel.backgroundColor = [UIColor groupTableViewBackgroundColor];                 //уточнить-как присвоить цвет уветка бекграунду???
+   self.descriptionLabel.backgroundColor = flower.color;
 }
 
 
